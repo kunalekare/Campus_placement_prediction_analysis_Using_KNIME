@@ -93,7 +93,7 @@ Combination of multiple decision trees to improve prediction accuracy.
 Evaluates model performance using Accuracy, Precision, Recall, and F1 Score.
 
 **Example Confusion Matrix:**
-
+ Accuracy : 80%
 | Predicted / Actual | Actual Placed | Actual NotPlaced |
 | :--- | :--- | :--- |
 | **Predicted Placed** | 927 | 45 |
