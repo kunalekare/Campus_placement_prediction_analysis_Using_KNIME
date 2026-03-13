@@ -1,9 +1,10 @@
-Here is the properly formatted README.md code for your project. You can copy this code block directly into your GitHub repository or project folder.
+
 # 🎓 Campus Placement Prediction Analysis
 
 A data analytics and machine learning project that predicts whether a student will be placed or not placed based on academic and personal attributes using KNIME Analytics Platform.
 
 The project performs data preprocessing, visualization, and predictive modeling using algorithms such as **Random Forest**, **Decision Tree**, and **Tree Ensemble**. This workflow helps institutions analyze placement trends and student performance factors.
+<img width="1919" height="1079" alt="Screenshot 2026-03-14 001540" src="https://github.com/user-attachments/assets/584b1873-c6fb-4776-842f-73bf7f1cfb3f" />
 
 ---
 
@@ -188,5 +189,4 @@ Kunal Ekare
  * Project: Campus Placement Prediction Analysis
  * Tools Used: KNIME, Machine Learning, Data Visualization
 
-Would you like me to help you add a license section or a "Contributing" section to this README?
 
